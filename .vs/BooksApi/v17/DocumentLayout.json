@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|c:\\users\\ramonbl\\source\\repos\\booksapi\\booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|C:\\Users\\ramonbl\\source\\repos\\BooksApi\\booksapi\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|C:\\Users\\ramonbl\\source\\repos\\BooksApi\\booksapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|C:\\Users\\ramonbl\\source\\repos\\BooksApi\\booksapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|C:\\Users\\ramonbl\\source\\repos\\BooksApi\\booksapi\\models\\booksmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6291B9-3375-409D-A1A9-A46CDDB6348D}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\models\\booksmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BooksApi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BooksApi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T05:14:21.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BooksApi\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BooksApi\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:10:18.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooksApi\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BooksApi\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T05:05:31.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:56:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksModel.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Models\\BooksModel.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Models\\BooksModel.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\source\\repos\\BooksApi\\BooksApi\\Models\\BooksModel.cs",
+              "RelativeToolTip": "BooksApi\\Models\\BooksModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:50:42.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
